@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1418374457 source:c:\users\joseph\desktop\examencasa2\main.cpp
+	<iostream>
+	<fstream>
+
